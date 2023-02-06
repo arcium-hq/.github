@@ -27,4 +27,4 @@ Privacy should be a guarantee for anyone, anywhere.
 Elusiv provides next-generation privacy infrastructure for decentralized technologies.
 
 ## Privacy combined with safety
-Privacy should never come at a trade-off to safety. Therefore, we combine our zero-knowledge privacy solutions with zero-knowledge compliance solutions which offer users more security about who they are interacting with while still maintaining privacy.
+Privacy should never come at a trade-off to safety. Therefore, we combine our zero-knowledge privacy solutions with decentralized compliance solutions which offer users more safety about who they are interacting with while still maintaining privacy.
