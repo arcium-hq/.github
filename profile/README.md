@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/elusiv-privacy/.github/blob/main/profile/elusiv.svg" width="150"/>
+    <img src="https://github.com/elusiv-privacy/.github/blob/main/profile/arcium.svg" width="150"/>
 </div>
 
 <br/>
@@ -12,19 +12,15 @@
 
 </div>
 
-[ico-twitter]: https://img.shields.io/twitter/url?color=5314b9&label=Elusiv&logoColor=5314b9&style=social&url=https%3A%2F%2Ftwitter.com%2Felusivprivacy
-[ico-discord]: https://img.shields.io/website?label=chat&up_color=5314b9&up_message=Discord&url=https%3A%2F%2Fdiscord.gg%2Felusivprivacy
-[ico-website]: https://img.shields.io/website?color=5314b9&up_color=b012b9&up_message=elusiv.io&url=https%3A%2F%2Felusiv.io
+[ico-twitter]: https://img.shields.io/twitter/url?color=5314b9&label=Arcium&logoColor=5314b9&style=social&url=https%3A%2F%2Ftwitter.com%2FArciumHQ
+[ico-discord]: https://img.shields.io/website?label=chat&up_color=5314b9&up_message=Discord&url=https%3A%2F%2Fdiscord.gg%2Farcium
+[ico-website]: https://img.shields.io/website?color=5314b9&up_color=b012b9&up_message=arcium.com&url=https%3A%2F%2Farcium.com
 
-[url-twitter]: https://twitter.com/elusivprivacy
-[url-discord]: https://discord.gg/elusivprivacy
-[url-website]: https://elusiv.io
+[url-twitter]: https://twitter.com/ArciumHQ
+[url-discord]: https://discord.gg/arcium
+[url-website]: https://arcium.com
 
-# Elusiv Privacy
+# Arcium
 
-## Privacy for everyone, anywhere
-Privacy should be a guarantee for anyone, anywhere.
-Elusiv provides next-generation privacy infrastructure for decentralized technologies.
-
-## Privacy combined with safety
-Privacy should never come at a trade-off to safety. Therefore, we combine our zero-knowledge privacy solutions with decentralized compliance solutions which offer users more safety about who they are interacting with while still maintaining privacy.
+## The first parallelized confidential computing network
+Arcium empowers developers and applications, from DeFi, to AI, and beyond, to flexibly access trustless, verifiable, and performant confidential computing power.
