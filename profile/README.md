@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/elusiv-privacy/.github/blob/main/profile/arcium.svg" width="150"/>
+    <img src="https://github.com/arcium-hq/.github/blob/main/profile/arcium.svg" width="150"/>
 </div>
 
 <br/>
