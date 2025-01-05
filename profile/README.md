@@ -22,5 +22,5 @@
 
 # Arcium
 
-## The first parallelized confidential computing network
+## The encrypted supercomputer
 Arcium empowers developers and applications, from DeFi, to AI, and beyond, to flexibly access trustless, verifiable, and performant confidential computing power.
