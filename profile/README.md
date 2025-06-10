@@ -24,3 +24,5 @@
 
 ## The encrypted supercomputer
 Arcium empowers developers and applications, from DeFi, to AI, and beyond, to flexibly access trustless, verifiable, and performant confidential computing power.
+
+Check out our [Developer Docs](https://docs.arcium.com/developers) to get started building with Arcium! Get a feel for building with Arcium by going through the [examples](https://github.com/arcium-hq/examples/) repository.
